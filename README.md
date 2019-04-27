@@ -9,3 +9,5 @@ resolve:
 E:\androidProject\TurboImage\lib_jpeg_turbo\src\main\java>javah -cp E:\android\sdk\platforms\android-28\android.jar; -jni com.salton123.jpeg.JpegTurbo
 
 ```
+
+https://www.jianshu.com/p/8f21d88d4439
